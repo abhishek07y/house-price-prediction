@@ -32,9 +32,8 @@ Important features include:
 - `location`
 - `total_sqft`
 - `bath`
-- `balcony`
 - `size`
-- `price`
+
 
 Target variable:
 
@@ -120,10 +119,10 @@ The model was evaluated using:
 
 | Metric | Score |
 |---|---:|
-| Training R² | `YOUR_SCORE` |
-| Testing R² | `YOUR_SCORE` |
-| MAE | `YOUR_SCORE` |
-| RMSE | `YOUR_SCORE` |
+| Training R² | `0.8617` |
+| Testing R² | `0.8297` |
+| MAE | `18.87` |
+| RMSE | `37.37` |
 
 ## 🛠️ Technologies Used
 
